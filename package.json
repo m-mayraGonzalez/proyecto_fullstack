@@ -1,0 +1,26 @@
+{
+  "name": "14-mongo-node",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7",
+    "mongoose-unique-validator": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mayraGonzalez/Proyecto-Fullstack-Mongo-Node-Express.git"
+  },
+  "author": "Mayra Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mayraGonzalez/Proyecto-Fullstack-Mongo-Node-Express/issues"
+  },
+  "homepage": "https://github.com/m-mayraGonzalez/Proyecto-Fullstack-Mongo-Node-Express#readme"
+}
